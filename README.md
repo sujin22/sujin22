@@ -3,13 +3,9 @@
 ### ٩(ˊᗜˋ*)و<br>☁️ SUJIN  ☁️
 
 <a href = "https://angxxu.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://angxxu.notion.site/dd9688d753e14805b219badd44d1c3cc"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
 
-<div align = "center">
 🎓 세종대학교 소프트웨어학과 졸업
-
-<br>
-
+<br><br>
 ### 🛠 Tech Stack 🛠
 
 Techs that I've used at least once
@@ -28,11 +24,12 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/-JavaScript-005571?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-Flutter-A8B9CC?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/-Dart-333664?style=flat-square&logo=dart&logoColor=white">
-
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aoghksj)](https://solved.ac/{handle})
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin22&layout=compact&theme=algolia&langs_count=8&hide=c%23,HLSL,ShaderLab,SCSS,CSS,Objective%2dC%2B%2B,GLSL,HTML"/>
 </div>
+<br>
+<br>
+<div align= "center">
+<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=aoghksj"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin22&layout=compact&theme=algolia&langs_count=8&hide=c%23,HLSL,ShaderLab,SCSS,CSS,Objective%2dC%2B%2B,GLSL,HTML"/>
+</div>
+
+
