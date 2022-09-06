@@ -1,11 +1,17 @@
 <div align = "center">
 
 ### ٩(ˊᗜˋ*)و<br>☁️ SUJIN  ☁️
+<hr>
 
-<a href = "https://angxxu.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://angxxu.notion.site/dd9688d753e14805b219badd44d1c3cc"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href = "https://angxxu.tistory.com/"><img src="https://img.shields.io/badge/-TechBlog-FFFFFF?style=flat-square&logo=tistory&logoColor=black"/></a> <a href="https://angxxu.notion.site/dd9688d753e14805b219badd44d1c3cc"><img src="https://img.shields.io/badge/-Portfolio-B2CCFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+<br>
+<br>
 
-🎓 세종대학교 소프트웨어학과 졸업
-<br><br>
+### 🎓 Education 🎓
+ 세종대학교 소프트웨어학과 졸업
+<br>
+<br>
+
 ### 🛠 Tech Stack 🛠
 
 Techs that I've used at least once
