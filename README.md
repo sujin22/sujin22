@@ -7,11 +7,12 @@
 <br>
 <br>
 
-### 🎓 Education 🎓
+
+<!-- ### 🎓 Education 🎓
  세종대학교 소프트웨어학과 졸업
 <br>
 <br>
-
+ -->
 ### 🛠 Tech Stack 🛠
 
 Techs that I've used at least once
